@@ -1,6 +1,6 @@
-# quizz - TP1
+# Quizz - TP1
 
-A new Flutter project.
+A new Flutter project for TP1.
 
 ## Getting Started
 
